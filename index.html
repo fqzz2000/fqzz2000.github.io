@@ -1,165 +1,137 @@
 <!DOCTYPE html>
-<!-- @falvojr: Reference article https://www.w3schools.com/howto/howto_website_create_resume.asp -->
-<!-- @falvojr: Useful link to use fontawesome (fa) icons: https://fontawesome.com/v4/icons/ -->
-<html>
+<html lang="en">
 
 <head>
-    <title>TODO Resume</title>
-
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Academic Profile</title>
     <style>
-        html,
-        body,
-        h1,
-        h2,
-        h3,
-        h4,
-        h5,
-        h6 {
-            font-family: "Roboto", sans-serif
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+        }
+        
+        .container {
+            display: flex;
+            max-width: 1200px;
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .left-column {
+            flex: 1;
+            padding: 20px;
+            background-color: #007acc;
+            color: #fff;
+            position: sticky;
+            top: 0;
+            min-width: 200px;
+            height: calc(100vh - 40px);
+            overflow-y: auto;
+            text-align: center;
+        }
+        
+        ul {
+            list-style-type: none;
+            margin: auto;
+            padding: 0;
+            overflow: hidden;
+        }
+        
+        li {
+            float: left;
+        }
+        
+        td a {
+            display: block;
+            background: white;
+            text-align: center;
+            padding: 14px 16px;
+        }
+        
+        td:hover {
+            background: #2667af;
+        }
+        
+        .left-column img {
+            max-width: 250px;
+            display: block;
+            margin: 0 auto;
+            margin-bottom: 20px;
+        }
+        
+        .left-column a {
+            color: #fff;
+        }
+        
+        .right-column {
+            flex: 2;
+            padding: 20px;
+            overflow-y: auto;
+        }
+        
+        .section {
+            margin-bottom: 20px;
+        }
+        
+        h1 {
+            margin-top: 0;
         }
     </style>
-
 </head>
 
-<body class="w3-light-grey" cz-shortcut-listen="true">
-
-    <!-- Page Container -->
-    <div class="w3-content w3-margin-top" style="max-width:1400px;">
-
-        <!-- The Grid -->
-        <div class="w3-row-padding">
-
-            <!-- Left Column -->
-            <div class="w3-third">
-
-                <div class="w3-white w3-text-grey w3-card-4">
-                    <!-- @falvojr: This container has been modified to not use a profile picture. -->
-                    <div class="w3-container">
-                        <h2>TODO</h2>
-                    </div>
-                    <div class="w3-container">
-                        <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>TODO</p>
-                        <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>TODO</p>
-                        <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>TODO</p>
-                        <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>TODO</p>
-                        <hr>
-
-                        <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
-                        <p>TODO</p>
-                        <div class="w3-light-grey w3-round-xlarge w3-small">
-                            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
-                        </div>
-                        <p>TODO</p>
-                        <div class="w3-light-grey w3-round-xlarge w3-small">
-                            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
-                        </div>
-                        <p>TODO</p>
-                        <div class="w3-light-grey w3-round-xlarge w3-small">
-                            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
-                        </div>
-                        <p>TODO</p>
-                        <div class="w3-light-grey w3-round-xlarge w3-small">
-                            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
-                        </div>
-                        <br>
-
-                        <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
-                        <p>TODO</p>
-                        <div class="w3-light-grey w3-round-xlarge">
-                            <div class="w3-round-xlarge w3-teal" style="height:24px;width:50%"></div>
-                        </div>
-                        <p>TODO</p>
-                        <div class="w3-light-grey w3-round-xlarge">
-                            <div class="w3-round-xlarge w3-teal" style="height:24px;width:50%"></div>
-                        </div>
-                        <p>TODO</p>
-                        <div class="w3-light-grey w3-round-xlarge">
-                            <div class="w3-round-xlarge w3-teal" style="height:24px;width:50%"></div>
-                        </div>
-                        <br>
-                    </div>
-                </div><br>
-
-                <!-- End Left Column -->
-            </div>
-
-            <!-- Right Column -->
-            <div class="w3-twothird">
-
-                <div class="w3-container w3-card w3-white w3-margin-bottom">
-                    <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-terminal fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>About</h2>
-                    <p>TODO</p>
-                </div>
-
-                <div class="w3-container w3-card w3-white w3-margin-bottom">
-                    <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
-                    <div class="w3-container">
-                        <h5 class="w3-opacity"><b>TODO</b></h5>
-                        <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>TODO - <span class="w3-tag w3-teal w3-round">Current</span></h6>
-                        <p>TODO</p>
-                        <hr>
-                    </div>
-                    <div class="w3-container">
-                        <h5 class="w3-opacity"><b>TODO</b></h5>
-                        <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>TODO - TODO</h6>
-                        <p>TODO</p>
-                        <hr>
-                    </div>
-                    <div class="w3-container">
-                        <h5 class="w3-opacity"><b>TODO</b></h5>
-                        <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>TODO - TODO</h6>
-                        <p>TODO</p><br>
-                    </div>
-                </div>
-
-                <div class="w3-container w3-card w3-white">
-                    <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
-                    <div class="w3-container">
-                        <h5 class="w3-opacity"><b>TODO</b></h5>
-                        <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><span class="w3-tag w3-teal w3-round">Forever</span></h6>
-                        <p>TODO</p>
-                        <hr>
-                    </div>
-                    <div class="w3-container">
-                        <h5 class="w3-opacity"><b>TODO</b></h5>
-                        <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>TODO - <span class="w3-tag w3-teal w3-round">Current</span></h6>
-                        <p>TODO</p>
-                        <hr>
-                    </div>
-                    <div class="w3-container">
-                        <h5 class="w3-opacity"><b>TODO</b></h5>
-                        <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>TODO - TODO</h6>
-                        <p>TODO</p><br>
-                    </div>
-                </div>
-
-                <!-- End Right Column -->
-            </div>
-
-            <!-- End Grid -->
+<body>
+    <div class="container">
+        <div class="left-column">
+            <img src="./img/headshot.jpg" alt="Your Photo">
+            <section class="section">
+                <h1>Quanzhi Fu</h1>
+                <p>quanzhi.fu [at] duke [dot] edu</p>
+            </section>
+            <tr>
+                <td><a href="https://github.com/fqzz2000">Github</a></td>
+                <td><a href="https://www.linkedin.com/in/quanzhi-fu-a6a9a0218/">LinkedIn</a></td>
+                <td><a href="./doc/CV-Quanzhi Fu-22 - academia.pdf">Resume</a></td>
+            </tr>
         </div>
+        <div class="right-column">
 
-        <!-- End Page Container -->
+            <section class="section">
+                <h3>About Me</h4>
+                    <p>I am currently a Master of Engineering student at Duke University with a special interest in Cloud Computing and System Programming. I completed my internship at Alibaba Cloud as a software engineer, focusing on system and infrastructure
+                        development, specifically in the area of container network stability. Prior to my time at Duke, I earned my B.S. degree in Data Science from the Chinese University of Hong Kong, Shenzhen.</p>
+
+                    <p>I am actively seeking PhD opportunities in the field of distributed systems. My goal is to leverage my knowledge to build software infrastructures with high performance and robustness.</p>
+            </section>
+            <section class="section">
+                <h3>Research</h3>
+                <p>Provide details about your research experience, projects, and accomplishments.</p>
+            </section>
+            <section class="section">
+                <h3>Teaching</h3>
+                <strong>I LOVE TEACHING!</strong> I have been a teaching assistant for 3 courses and be named <strong>"THE BEST TA EVER"</strong> by multiple undergraduate students.
+                <div style="margin-top: 10px;">Teaching Assistant, Duke, INFOSCI102 Computation and Problem Solving, Spring 23</div>
+                <div style="text-indent: 30px;margin: 0;">Developed final project and autograder for the course</div>
+                <div style="margin-top: 10px;">Teaching Assistant, Duke, STATS101, Intro. Apply Statistical Method, Fall 22</div>
+                <div style="text-indent: 30px;margin: 0;">Developed an R tutorial for absolute beginners</div>
+                <div style="margin-top: 10px;">Teaching Assistant, CUHKSZ, STA4001 Stochastic Processes, Spring 22</div>
+            </section>
+            <section class="section">
+                <h3>Something More</h4>
+                    <p>I am a certified personal trainer at Chinese Fitness And Bodybuilding Association and have practicing Boxing and Kickboxing for over 3 years </p>
+            </section>
+            <!-- Add more sections as needed -->
+        </div>
     </div>
-
-    <footer class="w3-container w3-teal w3-center w3-margin-top">
-        <p>Find me on social media.</p>
-        <i class="fa fa-facebook-official w3-hover-opacity"></i>
-        <i class="fa fa-instagram w3-hover-opacity"></i>
-        <i class="fa fa-snapchat w3-hover-opacity"></i>
-        <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-        <i class="fa fa-twitter w3-hover-opacity"></i>
-        <i class="fa fa-github w3-hover-opacity"></i>
-        <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
-    </footer>
-
 </body>
 
 </html>
