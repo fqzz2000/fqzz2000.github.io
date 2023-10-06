@@ -30,7 +30,7 @@
         .left-column {
             flex: 1;
             padding: 20px;
-            background-color: #007acc;
+            background-color: #071f68;
             color: #fff;
             position: sticky;
             top: 0;
@@ -39,16 +39,26 @@
             overflow-y: auto;
             text-align: center;
         }
+        /* 自定义项目符号样式 */
         
         ul {
             list-style-type: none;
-            margin: auto;
-            padding: 0;
-            overflow: hidden;
+            /* 移除默认的项目符号 */
+            margin-left: 20px;
+            /* 左侧外边距，用于控制缩进 */
         }
         
-        li {
-            float: left;
+        li::before {
+            content: "\2022";
+            /* Unicode 中的圆点字符作为项目符号 */
+            color: #111;
+            /* 项目符号的颜色 */
+            display: inline-block;
+            width: 1em;
+            /* 控制项目符号与文本之间的距离 */
+            margin-left: -1em;
+            /* 为了使项目符号与文本对齐 */
+            margin-top: 5px;
         }
         
         td a {
@@ -106,28 +116,50 @@
         <div class="right-column">
 
             <section class="section">
-                <h3>About Me</h4>
-                    <p>I am currently a Master of Engineering student at Duke University with a special interest in Cloud Computing and System Programming. I completed my internship at Alibaba Cloud as a software engineer, focusing on system and infrastructure
-                        development, specifically in the area of container network stability. Prior to my time at Duke, I earned my B.S. degree in Data Science from the Chinese University of Hong Kong, Shenzhen.</p>
+                <h2>About Me</h2>
+                <p>I am currently pursuing a Master of Engineering degree at Duke University, where my academic focus centers on Cloud Computing and System Programming. During a pivotal internship at Alibaba Cloud, I worked as a software engineer, specializing
+                    in system and infrastructure development, with a specific focus on enhancing the stability of container networks. My educational journey began with a B.S. degree in Data Science from the Chinese University of Hong Kong, Shenzhen.</p>
 
-                    <p>I am actively seeking PhD opportunities in the field of distributed systems. My goal is to leverage my knowledge to build software infrastructures with high performance and robustness.</p>
+                <p>Driven by a passion for cutting-edge technology, <strong>I am actively exploring Ph.D. opportunities in the field of distributed systems/HPC</strong>. My academic journey has evolved from initial research experiences in Reinforcement Learning
+                    to my current pursuit in system development. My ultimate goal is to apply my knowledge to design software infrastructures that deliver exceptional performance and unwavering robustness.</p>
             </section>
             <section class="section">
-                <h3>Research</h3>
-                <p>Provide details about your research experience, projects, and accomplishments.</p>
+                <h2>Research</h2>
+                <ul>
+                    <li>
+                        Probabilistic Safe Reinforcement Learning for Autonomous Vehicle Ramp Merging <a href="https://riss.ri.cmu.edu/wp-content/uploads/2021/10/2021-CMU-RoboticsInstitute_SummerScholars-WorkingPapersJournal-Sized-compressed.pdf">[paper]</a>
+                        <div style="text-indent: 30px;margin: 0;">Supervised by Dr. John M. Dolan & Ms. Yiwei Lyu, Carnegie Mellon University</div>
+                        <div style="text-indent: 30px;margin: 0;">RISS Journal (2021)</div>
+                    </li>
+                    <li>
+                        Adaptive Network Routing based on Reinforcement Learning <a href="https://arxiv.org/abs/2107.13181">[paper]</a>
+                        <div style="text-indent: 30px;margin: 0;">Supervised by Dr. Yi Chen, Chinese University of Hong Kong, Shenzhen </div>
+                        <div style="text-indent: 30px;margin: 0;">IEEE Globecom (2021)</div>
+
+                    </li>
+                </ul>
             </section>
             <section class="section">
-                <h3>Teaching</h3>
+                <h2> Industry </h2>
+                Alibaba Cloud, Cloud Native Application Platform, SWE System & infrastructure (May 2023-August 2023)
+            </section>
+            <section class="section">
+                <h2>Teaching</h2>
                 <strong>I LOVE TEACHING!</strong> I have been a teaching assistant for 3 courses and be named <strong>"THE BEST TA EVER"</strong> by multiple undergraduate students.
-                <div style="margin-top: 10px;">Teaching Assistant, Duke, INFOSCI102 Computation and Problem Solving, Spring 23</div>
-                <div style="text-indent: 30px;margin: 0;">Developed <a href="https://github.com/fqzz2000/INFOSCI102-Tetris">Final Project</a> and Autograder for the course</div>
-                <div style="margin-top: 10px;">Teaching Assistant, Duke, STATS101, Intro. Apply Statistical Method, Fall 22</div>
-                <div style="text-indent: 30px;margin: 0;">Developed an <a href="https://github.com/fqzz2000/R-Tutorial-for-Absolute-Beginner">R Tutorial for Absolute Beginners</a></div>
-                <div style="margin-top: 10px;">Teaching Assistant, CUHKSZ, STA4001 Stochastic Processes, Spring 22</div>
+                <ul>
+                    <li>Teaching Assistant, Duke, INFOSCI102 Computation and Problem Solving, Spring 23
+                        <div style="text-indent: 30px;margin: 0;">Developed <a href="https://github.com/fqzz2000/INFOSCI102-Tetris">Final Project</a> and Autograder for the course</div>
+                    </li>
+                    <li>Teaching Assistant, Duke, STATS101, Intro. Apply Statistical Method, Fall 22
+                        <div style="text-indent: 30px;margin: 0;">Developed an <a href="https://github.com/fqzz2000/R-Tutorial-for-Absolute-Beginner">R Tutorial for Absolute Beginners</a></div>
+                    </li>
+                    <li>Teaching Assistant, CUHKSZ, STA4001 Stochastic Processes, Spring 22
+                    </li>
+                </ul>
             </section>
             <section class="section">
-                <h3>Something More</h4>
-                    <p>I am a certified personal trainer at Chinese Fitness And Bodybuilding Association and have practicing Boxing and Kickboxing for over 3 years </p>
+                <h2>Something More</h2>
+                <p>I am a certified personal trainer at Chinese Fitness And Bodybuilding Association and have practicing Boxing and Kickboxing for over 3 years </p>
             </section>
             <!-- Add more sections as needed -->
         </div>
