@@ -11,7 +11,7 @@ I fortunately had the opportunity to collaborate with Dr. [John Dolan](https://w
 
 ## Research Interests
 
-- **Cloud System:**
+- **Cloud System**
 - **Operating System** 
 
 ## News
