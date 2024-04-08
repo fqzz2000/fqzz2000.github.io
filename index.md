@@ -21,7 +21,7 @@ I fortunately had the opportunity to collaborate with Dr. [John Dolan](https://w
 
 ## Educations
 - **MEng in Electrical and Computer Engineering, Duke University, 2022-2024**
-    - I spend my first year of Master's study at Duke Kunshan University([DKU](https://www.dukekunshan.edu.cn/)). A young and beautiful university located in Suzhou, Kunshan, China. 
+    - I spend my first year of Master's study at Duke Kunshan University([DKU](https://www.dukekunshan.edu.cn/)). A young and beautiful university located in  Kunshan, Suzhou, China. 
 - **BSc in Statistics (Data Science track), the Chinese University of Hong Kong, Shenzhen, 2018-2022**
 
 ## Research
