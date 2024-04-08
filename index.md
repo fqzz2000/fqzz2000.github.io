@@ -21,13 +21,13 @@ I fortunately had the opportunity to collaborate with Dr. [John Dolan](https://w
 
 ## Educations
 - **MEng in Electrical and Computer Engineering, Duke University, 2022-2024**
-    - I spend my first year of Master's study at Duke Kunshan University（[DKU](https://www.dukekunshan.edu.cn/). A young and beautiful university located in Suzhou, Kunshan, China. 
+    - I spend my first year of Master's study at Duke Kunshan University([DKU](https://www.dukekunshan.edu.cn/)). A young and beautiful university located in Suzhou, Kunshan, China. 
 - **BSc in Statistics (Data Science track), the Chinese University of Hong Kong, Shenzhen, 2018-2022**
 
 ## Research
-- **[2023]** **Probabilistic Safe Reinforcement Learning for Autonomous Vehicle Ramp Merging**（[paper](https://riss.ri.cmu.edu/wp-content/uploads/2021/10/2021-CMU-RoboticsInstitute_SummerScholars-WorkingPapersJournal-Sized-compressed.pdf)）
+- **[2023]** **Probabilistic Safe Reinforcement Learning for Autonomous Vehicle Ramp Merging**([paper](https://riss.ri.cmu.edu/wp-content/uploads/2021/10/2021-CMU-RoboticsInstitute_SummerScholars-WorkingPapersJournal-Sized-compressed.pdf))
     - **Advisor:** Dr. John M. Dolan & Ms. Yiwei Lyu, Carnegie Mellon University
-- **[2021]** **Adaptive Network Routing based on Reinforcement Learning**（[paper](https://arxiv.org/abs/2107.13181)）
+- **[2021]** **Adaptive Network Routing based on Reinforcement Learning**([paper](https://arxiv.org/abs/2107.13181))
     - **Advisor:** Dr. Yi Chen, Chinese University of Hong Kong, Shenzhen
 
 ## Teaching
