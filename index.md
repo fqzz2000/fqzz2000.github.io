@@ -6,7 +6,7 @@ layout: homepage
 
 I am currently pursuing a Master of Engineering degree at Duke University, where my academic focus centers on Cloud Computing and System Programming. During a pivotal internship at Alibaba Cloud, I worked as a software engineer, specializing in system and infrastructure development, with a specific focus on enhancing the stability of container networks. My educational journey began with a B.S. degree in Data Science from the Chinese University of Hong Kong, Shenzhen.
 
-I fortunately had the opportunity to collaborate with Dr. [John Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/) and Ms. [Yiwei Lyu](https://www.andrew.cmu.edu/user/yiweilyu/) at Carnegie Mellon University. I also worked with Dr. [Yi Chen](https://sse.cuhk.edu.cn/en/faculty/chenyi) at the Chinese University of Hong Kong, Shenzhen, where I conducted my first research project. My research interests include Cloud Systems and Operating Systems. I am excited to continue my academic journey at Virginia Tech, where I will pursue a Ph.D. under the guidance of Prof. Dan Williams.
+I fortunately had the opportunity to collaborate with Dr. [John Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/) and Ms. [Yiwei Lyu](https://www.andrew.cmu.edu/user/yiweilyu/) at Carnegie Mellon University. I also worked with Dr. [Yi Chen](https://sse.cuhk.edu.cn/en/faculty/chenyi) at the Chinese University of Hong Kong, Shenzhen, where I conducted my first research project. My research interests include Cloud Systems and Operating Systems. I am excited to continue my academic journey at Virginia Tech, where I will pursue a Ph.D. under the guidance of Prof. [Dan Williams](https://people.cs.vt.edu/djwillia/).
 
 
 ## Research Interests
