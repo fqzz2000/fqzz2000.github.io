@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am currently a PhD student in computer science at Virginia Tech, advised by Prof. [Dan Williams](https://people.cs.vt.edu/djwillia/). where my academic spread broadly in operating systems and cloud systems. Before joining Virginia Tech. Quanzhi obtained his master's degree in Electrical and Computer Engineering at Duke & Duke Kunshan University and Bachelor's degree at Chinese University of Hong Kong, Shenzhen
 
-I fortunately had the opportunity to collaborate with Dr. [John Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/) and Ms. [Yiwei Lyu](https://www.andrew.cmu.edu/user/yiweilyu/) at Carnegie Mellon University. I also worked with Dr. [Yi Chen](https://sse.cuhk.edu.cn/en/faculty/chenyi) at the Chinese University of Hong Kong, Shenzhen. before starting my Ph.D. study. My research interests include Cloud System and Operating System.
+I am a Ph.D. student in Computer Science at Virginia Tech, working under the guidance of [Prof. Dan Williams](https://people.cs.vt.edu/djwillia/). My research interests span operating systems and cloud systems. Before joining Virginia Tech, I earned a Master’s degree in Electrical and Computer Engineering from Duke University and Duke Kunshan University, and a Bachelor's degree from the Chinese University of Hong Kong, Shenzhen.
 
+I have been fortunate to collaborate with [Dr. John Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/) and [Ms. Yiwei Lyu](https://www.andrew.cmu.edu/user/yiweilyu/) at Carnegie Mellon University, as well as [Dr. Yi Chen](https://sse.cuhk.edu.cn/en/faculty/chenyi) at the Chinese University of Hong Kong, Shenzhen, before beginning my Ph.D. studies.
 
 ## Research Interests
 
