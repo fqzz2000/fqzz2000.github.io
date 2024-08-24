@@ -15,6 +15,7 @@ I have been fortunate to collaborate with [Dr. John Dolan](https://www.ri.cmu.ed
 - **Operating System** 
 
 ## News
+- **[Aug. 2024]** Ph.D. study at Virginia Tech begins!
 
 - **[Feb. 2024]** I will start my Ph.D. study in this Fall at the Virginia Tech, advised by Prof. [Dan Williams](https://people.cs.vt.edu/djwillia/).
 - **[Aug. 2023]** I finished my internship at Alibaba Cloud, where I worked on the stability of container networks.
