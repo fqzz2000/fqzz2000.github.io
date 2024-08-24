@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am currently pursuing a Master of Engineering degree at Duke University, where my academic focus centers on Cloud Computing and System Programming. During a pivotal internship at Alibaba Cloud, I worked as a software engineer, specializing in system and infrastructure development, with a specific focus on enhancing the stability of container networks. My educational journey began with a B.S. degree in Data Science from the Chinese University of Hong Kong, Shenzhen.
+I am currently a PhD student in computer science at Virginia Tech, advised by Prof. [Dan Williams](https://people.cs.vt.edu/djwillia/). where my academic spread broadly in operating systems and cloud systems. Before joining Virginia Tech. Quanzhi obtained his master's degree in Electrical and Computer Engineering at Duke & Duke Kunshan University and Bachelor's degree at Chinese University of Hong Kong, Shenzhen
 
-I fortunately had the opportunity to collaborate with Dr. [John Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/) and Ms. [Yiwei Lyu](https://www.andrew.cmu.edu/user/yiweilyu/) at Carnegie Mellon University. I also worked with Dr. [Yi Chen](https://sse.cuhk.edu.cn/en/faculty/chenyi) at the Chinese University of Hong Kong, Shenzhen, where I conducted my first research project. My research interests include Cloud Systems and Operating Systems. I am excited to continue my academic journey at Virginia Tech, where I will pursue a Ph.D. under the guidance of Prof. [Dan Williams](https://people.cs.vt.edu/djwillia/).
+I fortunately had the opportunity to collaborate with Dr. [John Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/) and Ms. [Yiwei Lyu](https://www.andrew.cmu.edu/user/yiweilyu/) at Carnegie Mellon University. I also worked with Dr. [Yi Chen](https://sse.cuhk.edu.cn/en/faculty/chenyi) at the Chinese University of Hong Kong, Shenzhen. before starting my Ph.D. study. My research interests include Cloud System and Operating System.
 
 
 ## Research Interests
@@ -20,7 +20,9 @@ I fortunately had the opportunity to collaborate with Dr. [John Dolan](https://w
 - **[Aug. 2023]** I finished my internship at Alibaba Cloud, where I worked on the stability of container networks.
 
 ## Educations
-- **MEng in Electrical and Computer Engineering, Duke University, 2022-2024**
+- **Ph.D. in Computer Science, Virginia Tech, 2024-present**
+    - Advised by Prof. [Dan Williams](https://people.cs.vt.edu/djwillia/).
+- **MEng in Electrical and Computer Engineering, Duke University & Duke Kunshan University, 2022-2024**
     - I spend my first year of Master's study at Duke Kunshan University([DKU](https://www.dukekunshan.edu.cn/)). A young and beautiful university located in  Kunshan, Suzhou, China. 
 - **BSc in Statistics (Data Science track), the Chinese University of Hong Kong, Shenzhen, 2018-2022**
 
