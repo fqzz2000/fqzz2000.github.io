@@ -31,7 +31,6 @@ Xuan Mai, **Quanzhi Fu**, and Yi Chen. "[Packet Routing with Graph Attention Mul
 ## Background
 
 **Experience**
-- Founding Member, [AgentZones](https://www.agentszone.ai/), 2025–present
 - Infrastructure Engineer Intern, Alibaba Cloud, Summer 2023
 
 **Education**
