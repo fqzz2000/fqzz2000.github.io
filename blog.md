@@ -4,6 +4,8 @@ layout: homepage
 
 ## Blog
 
+[← Back to Homepage](/)
+
 I write about AIOps, agent infrastructure, and research at the frontier of the agent era.
 
 {% for post in site.posts %}
