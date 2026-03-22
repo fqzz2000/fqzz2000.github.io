@@ -4,35 +4,28 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Computer Science at Virginia Tech, advised by [Prof. Dan Williams](https://people.cs.vt.edu/djwillia/), researching system infrastructure for the age of AI agents. Beyond my academic work, I am a founding member of [AgentZones](https://www.agentszone.ai/)—a community of AI agent practitioners—and serve as chief editor of [*High-Quality Delivery: 100x Productivity with AI Agents*](https://lipingtababa.github.io/harness-engineering-playbook/), which systematizes Agent engineering practices drawn from hundreds of real-world practitioners. Previously, I contributed to container network core modules at Alibaba Cloud and conducted visiting research at Carnegie Mellon University.
+I am a Ph.D. student in Computer Science at Virginia Tech, advised by [Prof. Dan Williams](https://people.cs.vt.edu/djwillia/), researching system infrastructure for the age of AI agents. My current work explores how operating systems and cloud infrastructure must evolve to support the demands of autonomous agent workloads. Previously, I contributed to container network core modules at Alibaba Cloud and conducted visiting research at Carnegie Mellon University.
 
-## Current Work
+I am a founding member of [AgentZones](https://www.agentszone.ai/), a practitioner community dedicated to advancing the real-world deployment of AI agents. At AgentZones, I work to bridge the gap between research and practice—contributing analysis of production agent systems and facilitating knowledge exchange among engineers and researchers building at the frontier.
 
-- **PhD Research** at Virginia Tech — system infrastructure for the age of AI agents, advised by [Prof. Dan Williams](https://people.cs.vt.edu/djwillia/)
-- **Chief Editor**, [*High-Quality Delivery: 100x Productivity with AI Agents*](https://lipingtababa.github.io/harness-engineering-playbook/) — a systematic framework for Agent engineering, grounded in the practices of hundreds of practitioners
-- **Paper accepted at AgenticOS 2026** — LLM-driven rule generation for WAF and enforcement systems
-
-## Publications
-
-- **[AgenticOS 2026]** **Toward LLM-Driven Rule Generation for Enforcement Systems: An Exploratory Study on WAF**
-  - Quanzhi Fu, Dan Williams — Virginia Tech
-
-- **[arXiv 2026]** **AgentCgroup: Understanding and Controlling OS Resources of AI Agents** ([paper](https://arxiv.org/abs/2602.09345))
-  - Yiwei Zheng, Jiawei Fan, Quanzhi Fu, Yifan Yang, Wei Zhang, Andrew Quinn
-
-- **[arXiv 2025]** **SAVANT: Vulnerability Detection in Application Dependencies through Semantic-Guided Reachability Analysis** ([paper](https://arxiv.org/abs/2506.17798))
-  - Lingxiang Wu, Quanzhi Fu, Wei Song, Guanlong Deng, Yang Liu, Dan Williams, Yao Zhang
-
-- **[arXiv 2025]** **Mining the Gold: Student-AI Chat Logs as Rich Sources for Automated Knowledge Gap Detection** ([paper](https://arxiv.org/abs/2512.22404))
-  - Quanzhi Fu, Qijia Wu, Dan Williams
-
-- **[GLOBECOM 2021]** **Packet Routing with Graph Attention Multi-Agent Reinforcement Learning** ([paper](https://arxiv.org/abs/2107.13181))
-  - Xinyu Mai, Quanzhi Fu, Yi Chen
+I am the lead author of [*High-Quality Delivery: 100x Productivity with AI Agents*](https://lipingtababa.github.io/harness-engineering-playbook/), a systematic framework for Agent engineering drawn from the practices of hundreds of real-world practitioners. The book argues that achieving transformative productivity gains requires rethinking engineering processes from first principles around the structural characteristics of agents.
 
 ## News
 
 - **[Mar. 2026]** I am presenting our paper on LLM-driven WAF rule generation at AgenticOS 2026 on March 23. See you in Pittsburgh!
 - **[Aug. 2024]** Ph.D. study at Virginia Tech begins!
+
+## Publications
+
+Fu, Quanzhi, and Dan Williams. "Toward LLM-Driven Rule Generation for Enforcement Systems: An Exploratory Study on WAF." *AgenticOS 2026*, 2026.
+
+Zheng, Yiwei, et al. "[AgentCgroup: Understanding and Controlling OS Resources of AI Agents](https://arxiv.org/abs/2602.09345)." *arXiv*, arXiv:2602.09345, 2026.
+
+Wu, Lingxiang, et al. "[SAVANT: Vulnerability Detection in Application Dependencies through Semantic-Guided Reachability Analysis](https://arxiv.org/abs/2506.17798)." *arXiv*, arXiv:2506.17798, 2025.
+
+Fu, Quanzhi, et al. "[Mining the Gold: Student-AI Chat Logs as Rich Sources for Automated Knowledge Gap Detection](https://arxiv.org/abs/2512.22404)." *arXiv*, arXiv:2512.22404, 2025.
+
+Mai, Xinyu, Quanzhi Fu, and Yi Chen. "[Packet Routing with Graph Attention Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2107.13181)." *2021 IEEE Global Communications Conference (GLOBECOM)*, 2021.
 
 ## Background
 
