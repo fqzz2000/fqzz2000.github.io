@@ -6,9 +6,9 @@ layout: homepage
 
 I am a Ph.D. student in Computer Science at Virginia Tech, advised by [Prof. Dan Williams](https://people.cs.vt.edu/djwillia/), researching system infrastructure for the age of AI agents. My current work explores how operating systems and cloud infrastructure must evolve to support the demands of autonomous agent workloads. Previously, I contributed to container network core modules at Alibaba Cloud and conducted visiting research at Carnegie Mellon University.
 
-I am a founding member of [AgentZones](https://www.agentszone.ai/), a practitioner community dedicated to advancing the real-world deployment of AI agents. At AgentZones, I work to bridge the gap between research and practice—contributing analysis of production agent systems and facilitating knowledge exchange among engineers and researchers building at the frontier.
+I am a founding member of [AgentZones](https://www.agentszone.ai/), a practitioner community dedicated to advancing the real-world deployment of AI agents. I am also the lead author of [*High-Quality Delivery: 100x Productivity with AI Agents*](https://lipingtababa.github.io/harness-engineering-playbook/), a systematic framework for Agent engineering drawn from the practices of hundreds of real-world practitioners.
 
-I am the lead author of [*High-Quality Delivery: 100x Productivity with AI Agents*](https://lipingtababa.github.io/harness-engineering-playbook/), a systematic framework for Agent engineering drawn from the practices of hundreds of real-world practitioners. The book argues that achieving transformative productivity gains requires rethinking engineering processes from first principles around the structural characteristics of agents.
+I closely follow the latest research in AIOps and agent infrastructure, and occasionally write about what I find. Check out my [blog](/blog).
 
 ## News
 
