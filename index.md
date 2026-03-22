@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. student in Computer Science at Virginia Tech, advised by [Prof. Dan Williams](https://people.cs.vt.edu/djwillia/), researching system infrastructure for the age of AI agents. My current work explores how operating systems and cloud infrastructure must evolve to support the demands of autonomous agent workloads. Previously, I contributed to container network core modules at Alibaba Cloud and conducted visiting research at Carnegie Mellon University.
 
-I am a founding member of [AgentZones](https://www.agentszone.ai/), a practitioner community dedicated to advancing the real-world deployment of AI agents. I am also the lead author of [*High-Quality Delivery: 100x Productivity with AI Agents*](https://lipingtababa.github.io/harness-engineering-playbook/), a systematic framework for Agent engineering drawn from the practices of hundreds of real-world practitioners.
+I am a founding member of [AgentZones](https://www.agentszone.ai/), a practitioner community dedicated to agent-driven software development. I am also the lead author of [*High-Quality Delivery: 100x Productivity with AI Agents*](https://lipingtababa.github.io/harness-engineering-playbook/), a systematic framework for agent-driven software engineering drawn from the practices of hundreds of real-world practitioners.
 
 I closely follow the latest research in AIOps and agent infrastructure, and occasionally write about what I find. Check out my [blog](/blog).
 
@@ -17,15 +17,15 @@ I closely follow the latest research in AIOps and agent infrastructure, and occa
 
 ## Publications
 
-Fu, Quanzhi, and Dan Williams. "Toward LLM-Driven Rule Generation for Enforcement Systems: An Exploratory Study on WAF." *AgenticOS 2026*, 2026.
+**Quanzhi Fu** and Dan Williams. "Toward LLM-Driven Rule Generation for Enforcement Systems: An Exploratory Study on WAF." *AgenticOS 2026*, 2026.
 
-Zheng, Yiwei, et al. "[AgentCgroup: Understanding and Controlling OS Resources of AI Agents](https://arxiv.org/abs/2602.09345)." *arXiv*, arXiv:2602.09345, 2026.
+Yiwei Zheng, Jiawei Fan, **Quanzhi Fu**, Yifan Yang, Wei Zhang, and Andrew Quinn. "[AgentCgroup: Understanding and Controlling OS Resources of AI Agents](https://arxiv.org/abs/2602.09345)." *arXiv*, arXiv:2602.09345, 2026.
 
-Wu, Lingxiang, et al. "[SAVANT: Vulnerability Detection in Application Dependencies through Semantic-Guided Reachability Analysis](https://arxiv.org/abs/2506.17798)." *arXiv*, arXiv:2506.17798, 2025.
+Lingxiang Wang, **Quanzhi Fu**, Wenjia Song, Gelei Deng, Yi Liu, Dan Williams, and Ying Zhang. "[SAVANT: Vulnerability Detection in Application Dependencies through Semantic-Guided Reachability Analysis](https://arxiv.org/abs/2506.17798)." *arXiv*, arXiv:2506.17798, 2025.
 
-Fu, Quanzhi, et al. "[Mining the Gold: Student-AI Chat Logs as Rich Sources for Automated Knowledge Gap Detection](https://arxiv.org/abs/2512.22404)." *arXiv*, arXiv:2512.22404, 2025.
+**Quanzhi Fu**, Qijia Wu, and Dan Williams. "[Mining the Gold: Student-AI Chat Logs as Rich Sources for Automated Knowledge Gap Detection](https://arxiv.org/abs/2512.22404)." *arXiv*, arXiv:2512.22404, 2025.
 
-Mai, Xinyu, Quanzhi Fu, and Yi Chen. "[Packet Routing with Graph Attention Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2107.13181)." *2021 IEEE Global Communications Conference (GLOBECOM)*, 2021.
+Xinyu Mai, **Quanzhi Fu**, and Yi Chen. "[Packet Routing with Graph Attention Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2107.13181)." *2021 IEEE Global Communications Conference (GLOBECOM)*, 2021.
 
 ## Background
 
