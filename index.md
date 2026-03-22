@@ -13,6 +13,7 @@ I closely follow the latest research in AIOps and agent infrastructure, and occa
 ## News
 
 - **[Mar. 2026]** I am presenting our paper on LLM-driven WAF rule generation at AgenticOS 2026 on March 23. See you in Pittsburgh!
+- **[Mar. 2026]** Our work AgentCgroup: Understanding and Controlling OS Resources of AI Agents is accepted at AgenticOS 2026.
 - **[Aug. 2024]** Ph.D. study at Virginia Tech begins!
 
 ## Publications
