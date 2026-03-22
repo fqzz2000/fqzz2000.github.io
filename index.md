@@ -23,9 +23,9 @@ Yusheng Zheng, Jiakun Fan, **Quanzhi Fu**, Yiwei Yang, Wei Zhang, and Andi Quinn
 
 Lingxiang Wang, **Quanzhi Fu**, Wenjia Song, Gelei Deng, Yi Liu, Dan Williams, and Ying Zhang. "[SAVANT: Vulnerability Detection in Application Dependencies through Semantic-Guided Reachability Analysis](https://arxiv.org/abs/2506.17798)." *arXiv*, arXiv:2506.17798, 2025.
 
-**Quanzhi Fu**, Qijia Wu, and Dan Williams. "[Mining the Gold: Student-AI Chat Logs as Rich Sources for Automated Knowledge Gap Detection](https://arxiv.org/abs/2512.22404)." *arXiv*, arXiv:2512.22404, 2025.
+**Quanzhi Fu**, Qiyu Wu, and Dan Williams. "[Mining the Gold: Student-AI Chat Logs as Rich Sources for Automated Knowledge Gap Detection](https://arxiv.org/abs/2512.22404)." *arXiv*, arXiv:2512.22404, 2025.
 
-Xinyu Mai, **Quanzhi Fu**, and Yi Chen. "[Packet Routing with Graph Attention Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2107.13181)." *2021 IEEE Global Communications Conference (GLOBECOM)*, 2021.
+Xuan Mai, **Quanzhi Fu**, and Yi Chen. "[Packet Routing with Graph Attention Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2107.13181)." *2021 IEEE Global Communications Conference (GLOBECOM)*, 2021.
 
 ## Background
 
