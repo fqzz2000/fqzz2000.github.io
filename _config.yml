@@ -6,13 +6,13 @@ email: quanzhif@vt.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Quanzhi Fu, AI agents, system infrastructure, Virginia Tech, AgentZones, LLM, WAF
+description: Quanzhi Fu — Ph.D. student at Virginia Tech researching system infrastructure for the age of AI agents. Founding member of AgentZones and chief editor of High-Quality Delivery: 100x Productivity with AI Agents.
+canonical: https://fqzz2000.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-# google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=XNjUr7MAAAAJ
 cv_link: assets/files/CV-Quanzhi Fu.pdf
 github_link: https://github.com/fqzz2000
 linkedin: https://www.linkedin.com/in/quanzhi-fu-a6a9a0218/
