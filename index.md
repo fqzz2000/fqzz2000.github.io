@@ -19,7 +19,7 @@ I closely follow the latest research in AIOps and agent infrastructure, and occa
 
 **Quanzhi Fu** and Dan Williams. "Toward LLM-Driven Rule Generation for Enforcement Systems: An Exploratory Study on WAF." *AgenticOS 2026*, 2026.
 
-Yiwei Zheng, Jiawei Fan, **Quanzhi Fu**, Yifan Yang, Wei Zhang, and Andrew Quinn. "[AgentCgroup: Understanding and Controlling OS Resources of AI Agents](https://arxiv.org/abs/2602.09345)." *arXiv*, arXiv:2602.09345, 2026.
+Yusheng Zheng, Jiakun Fan, **Quanzhi Fu**, Yiwei Yang, Wei Zhang, and Andi Quinn. "[AgentCgroup: Understanding and Controlling OS Resources of AI Agents](https://arxiv.org/abs/2602.09345)." *arXiv*, arXiv:2602.09345, 2026.
 
 Lingxiang Wang, **Quanzhi Fu**, Wenjia Song, Gelei Deng, Yi Liu, Dan Williams, and Ying Zhang. "[SAVANT: Vulnerability Detection in Application Dependencies through Semantic-Guided Reachability Analysis](https://arxiv.org/abs/2506.17798)." *arXiv*, arXiv:2506.17798, 2025.
 
