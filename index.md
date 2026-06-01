@@ -12,6 +12,7 @@ I closely follow the latest research in AIOps and agent infrastructure, and occa
 
 ## News
 
+- **[Jun. 2026]** I am serving as a Program Committee member for the [AgenticSE Workshop at KDD 2026](https://agent-se.github.io/).
 - **[Mar. 2026]** New blog post: [System Infrastructure for the Agent Era: Recap of the First AgenticOS Workshop](/blog).
 - **[Mar. 2026]** Our paper AgentCgroup received the **Best Paper Award** at AgenticOS 2026!
 - **[Mar. 2026]** New blog post: [Agent Management: The Deterministic Boundaries of AI Coding](/blog).
