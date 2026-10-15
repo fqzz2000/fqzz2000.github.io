@@ -15,7 +15,7 @@ I closely follow the latest research in AIOps and agent infrastructure, and occa
 - **[Oct. 2026]** New blog post: [A Survey of Agent Sandboxes: Big Tech Is Optimizing the Wrong Target](/blog).
 - **[Jul. 2026]** Our paper CognixShield: PoV-Guided Vulnerable API Usage Detection in Large Codebases via LLMs is accepted at ESEM 2026!
 - **[Jun. 2026]** I am serving as a Program Committee member for the [AgenticSE Workshop at KDD 2026](https://agent-se.github.io/).
-- **[May 2026]** I am honored to receive the **Pratt Fellowship Award** for the 2026–27 academic year. Many thanks to the Department of Computer Science at Virginia Tech and my advisor [Prof. Dan Williams](https://people.cs.vt.edu/djwillia/) for their support!
+- **[May 2026]** I am honored to receive the **Pratt Fellowship Award** for the 2026–27 academic year. Thanks to VT CS and my advisor [Dan Williams](https://people.cs.vt.edu/djwillia/)!
 - **[Mar. 2026]** New blog post: [System Infrastructure for the Agent Era: Recap of the First AgenticOS Workshop](/blog).
 - **[Mar. 2026]** Our paper AgentCgroup received the **Best Paper Award** at AgenticOS 2026!
 - **[Mar. 2026]** New blog post: [Agent Management: The Deterministic Boundaries of AI Coding](/blog).
