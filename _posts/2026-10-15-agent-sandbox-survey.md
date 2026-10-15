@@ -117,14 +117,6 @@ As this article shows, although many companies and researchers have invested in 
 
 Discussion and criticism are very welcome!
 
----
-
-A little advertisement:
-
-I am a PhD student in the ROSA (Rethinking Operating System Abstraction) lab at Virginia Tech, advised by Dr. Dan Williams. My research currently focuses on designing secure and efficient agent sandboxes, but generally speaking I am interested in everything about systems, including distributed systems, OS kernels, storage, networking, etc. Feel free to reach out and chat! We will also release some sandbox-related research soon, so stay tuned!
-
-If this article makes you want to do research on agent sandboxes but you feel a bit lost about how to do research, you are welcome to read my other article, *How to Do Mind-Blowing Research* ([in Chinese](https://zhuanlan.zhihu.com/p/2051283384295483053)).
-
 ## References
 
 [1] Jialiang Huang, Teng Ma, Zheng Liu, et al. TrEnv-X: Transparently Share Serverless Execution Environments Across Different Functions and Nodes. ACM Transactions on Computer Systems (TOCS), 2026.
