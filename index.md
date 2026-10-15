@@ -32,7 +32,7 @@ I closely follow the latest research in AIOps and agent infrastructure, and occa
 
 Yusheng Zheng, Jiakun Fan, **Quanzhi Fu**, Yiwei Yang, Wei Zhang, and Andi Quinn. "[AgentCgroup: Understanding and Controlling OS Resources of AI Agents](https://arxiv.org/abs/2602.09345)." *AgenticOS 2026*.
 
-**Quanzhi Fu**, Lingxiang Wang, Wenjia Song, Gelei Deng, Yi Liu, Dan Williams, and Ying Zhang. "[CognixShield: PoV-Guided Vulnerable API Usage Detection in Large Codebases via LLMs](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.1)." *International Symposium on Empirical Software Engineering and Measurement (ESEM 2026)*, LIPIcs, Volume 394, 2026.
+**Quanzhi Fu**\*, Lingxiang Wang\*, Wenjia Song, Gelei Deng, Yi Liu, Dan Williams, and Ying Zhang. "[CognixShield: PoV-Guided Vulnerable API Usage Detection in Large Codebases via LLMs](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.1)." *International Symposium on Empirical Software Engineering and Measurement (ESEM 2026)*, LIPIcs, Volume 394, 2026. (\*Equal contribution)
 
 **Quanzhi Fu**, Qiyu Wu, and Dan Williams. "[Mining the Gold: Student-AI Chat Logs as Rich Sources for Automated Knowledge Gap Detection](https://arxiv.org/abs/2512.22404)." *arXiv*, arXiv:2512.22404, 2025.
 
