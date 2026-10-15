@@ -12,7 +12,10 @@ I closely follow the latest research in AIOps and agent infrastructure, and occa
 
 ## News
 
+- **[Oct. 2026]** New blog post: [A Survey of Agent Sandboxes: Big Tech Is Optimizing the Wrong Target](/blog).
+- **[Jul. 2026]** Our paper CognixShield: PoV-Guided Vulnerable API Usage Detection in Large Codebases via LLMs is accepted at ESEM 2026!
 - **[Jun. 2026]** I am serving as a Program Committee member for the [AgenticSE Workshop at KDD 2026](https://agent-se.github.io/).
+- **[May 2026]** I am honored to receive the **Pratt Fellowship Award** for the 2026–27 academic year. Many thanks to Virginia Tech for the support!
 - **[Mar. 2026]** New blog post: [System Infrastructure for the Agent Era: Recap of the First AgenticOS Workshop](/blog).
 - **[Mar. 2026]** Our paper AgentCgroup received the **Best Paper Award** at AgenticOS 2026!
 - **[Mar. 2026]** New blog post: [Agent Management: The Deterministic Boundaries of AI Coding](/blog).
@@ -29,7 +32,7 @@ I closely follow the latest research in AIOps and agent infrastructure, and occa
 
 Yusheng Zheng, Jiakun Fan, **Quanzhi Fu**, Yiwei Yang, Wei Zhang, and Andi Quinn. "[AgentCgroup: Understanding and Controlling OS Resources of AI Agents](https://arxiv.org/abs/2602.09345)." *AgenticOS 2026*.
 
-Lingxiang Wang, **Quanzhi Fu**, Wenjia Song, Gelei Deng, Yi Liu, Dan Williams, and Ying Zhang. "[SAVANT: Vulnerability Detection in Application Dependencies through Semantic-Guided Reachability Analysis](https://arxiv.org/abs/2506.17798)." *arXiv*, arXiv:2506.17798, 2025.
+**Quanzhi Fu**, Lingxiang Wang, Wenjia Song, Gelei Deng, Yi Liu, Dan Williams, and Ying Zhang. "CognixShield: PoV-Guided Vulnerable API Usage Detection in Large Codebases via LLMs." *International Symposium on Empirical Software Engineering and Measurement (ESEM 2026)*, LIPIcs, Volume 394, 2026.
 
 **Quanzhi Fu**, Qiyu Wu, and Dan Williams. "[Mining the Gold: Student-AI Chat Logs as Rich Sources for Automated Knowledge Gap Detection](https://arxiv.org/abs/2512.22404)." *arXiv*, arXiv:2512.22404, 2025.
 
